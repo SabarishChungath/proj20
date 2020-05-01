@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "526591628101",
+    "firebase_url": "https://cov19-caa02.firebaseio.com",
+    "project_id": "cov19-caa02",
+    "storage_bucket": "cov19-caa02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526591628101:android:c7c7af82a5f8af29cae42c",
+        "android_client_info": {
+          "package_name": "com.cov19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526591628101-rvpkj1g5u7h4q4180jmi1b2d8le7bvm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ8NDTriqyFPZ7JaZuEuBl74xHpVGcKbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526591628101-rvpkj1g5u7h4q4180jmi1b2d8le7bvm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
